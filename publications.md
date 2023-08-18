@@ -10,7 +10,11 @@
 <br> XX, XX, XX. 
 <br> IEEE Transactions on Neural Networks and Learning Systems, 2023.  
 
-**2023** 
+**2022** 
+
+- **[TNNLS'23] XX.** [[PDF](paper_url)] 
+<br> XX, XX, XX. 
+<br> IEEE Transactions on Neural Networks and Learning Systems, 2022.  
 
 
 
