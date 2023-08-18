@@ -1,6 +1,7 @@
 
 **2023** 
 
+<!--
 - **[PACT'23] Minigraph: Accelerating Subgraph Enumeration Using Auxiliary Graphs.** [Coming soon]
 <br> Juelin Liu, Sandeep Polisetty, Hui Guan, Marco Serafini.
 <br> The 32nd International Conference on Parallel Architectures and Compilation Techniques, Oct. 21-25, 2023. 
@@ -156,5 +157,7 @@
 
 - **[SPAWC'16] A topological collapse for document summarization.** [[PDF](http://guanh01.github.io/files/2016spawc.pdf)] 
 <br> Hui Guan, Wen Tang, Hamid Krim, James Keiser, Andrew Rindos, and Radmila Sazdanovic.  In 2016 IEEE 17th International Workshop on Signal Processing Advances in Wireless Communications (SPAWC), pp. 1-5. IEEE, 2016.
+-->
+
 
 
