@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hui Guan's Homepage"
+title                    : "Xinwei He's Homepage"
 title_separator          : "-"
-name                     : &name "Hui Guan"
+name                     : &name "Xinwei He"
 description              : &description "Assistant Professor of Computer Science, UMass Amherst"
-url                      : https://guanh01.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eriche2016.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "guanh01/guanh01.github.io"
+repository               : "eriche2016/eriche2016.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160

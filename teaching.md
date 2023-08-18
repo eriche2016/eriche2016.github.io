@@ -1,13 +1,6 @@
-- **COMPSCI 410/610: Compiler Techniques** [[2022Spring](https://sites.google.com/umass.edu/compsci410-spring22/)] 
-<br> This course explores the basic problems in the translation of programming languages focusing on theory and common implementation techniques for compiling traditional block-structured programming languages to produce assembly or object code for typical machines. The course involves a substantial laboratory project in which the student constructs a working compiler for a considerable subset of a realistic programming language, within a provided skeleton. The lectures are augmented by a discussion section that covers details of the programming language used to build the compiler, the operating system, the source language, and various tools. Use of computer required.
+- **计算机视觉** [[2023Fall](https://sites.google.com/xx.edu/xx/)] 
+<br> This course explores xx focusing on xx techniques The course involves a substantial laboratory project in which the student xx for a xx, within xx. The lectures are augmented by a discussion section that covers details of xx used to build the xx, xx, the source language, and various tools. Use of computer required.
 
 
-- **COMPSCI 532: Systems for Data Science** [[2021Spring](https://sites.google.com/umass.edu/compsci532-s21/home)] [[2021Fall](https://sites.google.com/umass.edu/compsci-532/home)][[2022Fall](https://sites.google.com/umass.edu/compsci532fall22/home)]
-<br> In this course, students will learn the fundamentals behind large-scale systems used for data science. We will cover the issues involved in scaling up (to many processors) and out (to many nodes) parallelism in order to perform fast analyses on large datasets. These include locality and data representation, concurrency, distributed databases and systems. We will explore the details of existing and emerging data science platforms, including map-reduce and data analytics systems like Hadoop and Apache Spark, and systems for machine learning and deep learning. 
-
-- **COMPSCI 589: Machine Learning** [[2023Fall](https://sites.google.com/umass.edu/compsci589-fall23/home)]
-<br> This course will introduce core machine learning models and algorithms for classification, regression, clustering, and dimensionality reduction. On the theory side, the course will cover the mathematical foundations underlying the most commonly-used machine learning algorithms. It will focus on understanding models and the relationships between them. On the applied side, the course will focus on effectively using machine learning methods to solve real-world problems with an emphasis on model selection, regularization, design of experiments, and presentation and interpretation of results. The course will have assignments that involve both mathematical problems and implementation tasks.
-
-
-- **COMPSCI 692S: SEMINAR - Systems for Machine Learning, Machine Learning for Systems** [[2020Fall](https://guanh01.github.io/teaching/2020-fall-mlsys)]
-<br> This seminar discusses cutting-edge research on the topics of machine learning for systems and systems for machine learning.
+- **Python程序设计** [[2023Spring](https://sites.google.com/xx.edu/xx-s21/home)] [[2023Fall](https://sites.google.com/xx.edu/xx-532/home)][[2022Fall](https://sites.google.com/xx.edu/xx/home)]
+<br> In this course, students will learn the fundamentals behind xx used for xx. We will cover the issues involved in xx.
