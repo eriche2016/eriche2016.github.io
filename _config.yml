@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hui Guan"
-  avatar           : "profile.jpeg"
-  bio              : "Assistant Professor <br> <a href = \"https://www.cics.umass.edu\">College of Information & Computer Sciences</a> <br> University of Massachusetts Amherst"
-  location         : "Amherst, MA 01003"
+  name             : "Xinwei He"
+  avatar           : "author_profile.jpg"
+  bio              : "Associate Professor <br> <a href = \"www.hzau.edu.cn\">College of Informatics</a> <br> University of Massachusetts Amherst"
+  location         : "Wuhan, Hubei Province, China"
   employer         : #"UMass Amhesrt"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=rfPAfBkAAAAJ"
-  email            : "huiguan@cs.umass.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=YSIe_24AAAAJ&hl=zh-CN"
+  email            : "xwhe@mail.hzau.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "guanh01"
+  github           : "eriche2016"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "hui-guan-78793859"
-  orcid            : "https://orcid.org/0000-0001-9128-2231"
+  linkedin         : "xx"
+  orcid            : "xx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@guanh01"
+  twitter          : "@xx"
   vine             :
   weibo            :
   xing             :

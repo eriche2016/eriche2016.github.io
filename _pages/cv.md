@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-My [[CV](http://guanh01.github.io/files/CV.pdf)] can be found here.
+My [[CV](http://eriche2016.github.io/files/CV.pdf)] can be found here.

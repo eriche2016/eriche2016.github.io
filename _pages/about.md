@@ -8,14 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [College of Information and Computer Sciences (CICS)](https://www.cics.umass.edu/) at the University of Massachusetts Amherst, the flagship campus of the UMass system. I received my Ph.D. in Electrical Engineering from [North Carolina State University](https://www.ece.ncsu.edu/) in 2020. I am a member of the [Programming Language and Systems at Massachusetts (PLASMA)](https://plasma-umass.org/) lab at UMass. My research lies in the intersection between Machine Learning and Programming Systems, with an emphasis on improving the speed, scalability, and reliability of Machine Learning through innovations in algorithms and programming systems (e.g., compilers, runtime).  
+I am an Associate Professor in the [College of Informatics](http://coi.hzau.edu.cn/) at the Huazhong Agricultural University. I received my Ph.D. in Electrical Engineering from [Huazhong ](Huazhong University of Science and Technology) in 2020. I am a member of the [Vision and Machine Learning Group](to_do_url) lab at Huazhong Agricultural University. My research lies in Out of Distribution Detection (OOD), with an emphasis on industrial anomaly detection, open-set learning on point clouds, vision and language, 3D object detection.  
 
-
-Modern machine learning, especially deep learning, has shown dramatic progress. 
-Its effective adoption, however, faces a fundamental question: how to create models that efficiently deliver reliable predictions to meet the requirements of diverse applications running on various systems.
-My group addresses the challenge by designing algorithms and programming systems that reduce model development costs and enable model deployment under different settings. 
-In particular, we currently focus on the following two directions: 
-
+<!--
 - Programming systems support for emerging machine learning workloads including multi-task learning (e.g., 
 [AutoMTL](http://guanh01.github.io/files/2022automtl.pdf) at NeurIPS'22, 
 [TreeMTL](http://guanh01.github.io/files/2022automl.pdf) at AutoML'22), and
@@ -29,7 +24,7 @@ on-device inference (e.g.,
 [FLEET](http://guanh01.github.io/files/2023mobicom.pdf) at MobiCom'23), and 
 federated learning (e.g., 
 [Flash](http://guanh01.github.io/files/2023flash.pdf) at ICML'23). 
-
+-->
 
 <!-- My current research focuses on both algorithm and system optimizations of Deep Multi-Task Learning and Graph Machine Learning.  -->
 
@@ -45,10 +40,10 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
-- **[Aug. 2023]**: Thanks for the support of NSF to our project [Deep Learning on Anomaly Detection for Human Dynamics and Hazard Response](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2220211&HistoricalAwards=false). With collaborators, we will work on graph machine learning on anomaly detection. 
+- **[Aug. 2023]**: to be added. 
 
-- **[Aug. 2023]**: Congratulations to Juelin and Sandeep for their work on "Accelerating Subgraph Enumeration Using Auxiliary Graphs" accepted to [PACT'23](https://pact2023.github.io/). 
-
+- **[Aug. 2023]**: Congratulations to xx. 
+<!-- 
 - **[May. 2023]**: Our work on "Flash: Concept Drift Adaptation in Federated Learning"  is accepted to [ICML'23](https://guanh01.github.io/files/2023flash.pdf). It proposes a novel adaptive optimizer that simultanuously addresses both data heterogeneity and the concept drift issues in federated learning.  
 
 - **[May. 2023]**: Our work on "Automatically marginalized MCMC in probabilistic programming"  is accepted to [ICML'23](https://arxiv.org/pdf/2302.00564.pdf). It proposes automatic marginalization to make sampling process using Hamiltonian Monte Carlo more efficient.  
@@ -99,12 +94,13 @@ Automating Efficient Multi-Task Learning](http://guanh01.github.io/files/2022aut
 - **[May 2021]**: Our paper "[Reuse-Centric Kmeans Configuration](https://www.sciencedirect.com/science/article/abs/pii/S0306437921000430)" is accepted to Information Systems. Congratulations to [Lijun](https://zhanglijun95.github.io/resume/). 
 
 
+
 Awards
 ---- 
 - NCSU Electrical and Computer Engineering Outstanding Dissertation Award, 2020 
 - IBM PhD Fellowship, 2015-2018
 
-
+-->
 
 
 
