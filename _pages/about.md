@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the [College of Informatics](http://coi.hzau.edu.cn/) at the Huazhong Agricultural University. I received my Ph.D. in Electrical Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) under the supervion of Xiang Bai in 2020. I am a member of the [Vision and Machine Learning Group](to_do_url) lab at Huazhong Agricultural University. My research lies in Out of Distribution Detection (OOD), with an emphasis on industrial anomaly detection, open-set learning on point clouds, vision and language, 3D object detection.  
+I am an Associate Professor in the [College of Informatics](http://coi.hzau.edu.cn/) at the Huazhong Agricultural University. I received my Ph.D. in Information and Communication Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) under the supervion of Prof. Xiang Bai in 2020. I am a member of the [Vision and Machine Learning Group](to_do_url) lab at Huazhong Agricultural University. My research lies in Out of Distribution Detection (OOD), with an emphasis on industrial anomaly detection, open-set learning on point clouds, vision and language, 3D object detection.  
 
 <!--
 - Programming systems support for emerging machine learning workloads including multi-task learning (e.g., 
