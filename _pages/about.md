@@ -40,8 +40,8 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
-- **[Aug. 2023]**: Our work “Haar wavelet downsampling: A simple but effective downsampling module for semantic segmentation” is accepted to Pattern Recognion. 
-
+- **[Aug. 2023]**: Our work “Haar wavelet downsampling: A simple but effective downsampling module for semantic segmentation” is accepted to Pattern Recognition. 
+- **[Aug. 2023]**: My webpage is online.
 
 
 
