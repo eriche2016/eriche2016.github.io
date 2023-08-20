@@ -1,14 +1,11 @@
 **PhD Students**
 
-- [xx](https://xx.github.io/resume/) (Fall 2023)
-- [xx](https://xx.github.io/resume/) (Fall 2023)
-- xx (Fall 2023)
+- [Yuxuan Cai](https://xx.github.io/resume/) (Fall 2022), co-supervised with Prof. Xiang Bai.
 
 **Master Students**
 
-- [xx](https://xx.github.io/resume/) (Fall 2023)
-- [xx](https://xx.github.io/resume/) (Fall 2023)
-- xx (Fall 2023)
+- [Liang Ma](https://xx.github.io/resume/) (Fall 2023)
+- [Tingfeng Huang](https://xx.github.io/resume/) (Fall 2023)
 
 
 
