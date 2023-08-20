@@ -1,7 +1,4 @@
 **PhD Students**
-<!--
-- [Yuxuan Cai](https://xx.github.io/resume/) (Fall 2022), co-supervised with Prof. Xiang Bai.
--->
 TBD
 
 **Master Students**
