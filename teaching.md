@@ -1,6 +1,10 @@
 - **计算机视觉** [[2023Fall](https://sites.google.com/xx.edu/xx/)] 
-<br> This course explores xx focusing on xx techniques The course involves a substantial laboratory project in which the student xx for a xx, within xx. The lectures are augmented by a discussion section that covers details of xx used to build the xx, xx, the source language, and various tools. Use of computer required.
-
+<br> 计算机视觉是一门涵盖图像处理、模式识别、人工智能等多个学科的交叉领域，它致力于使计算机系统能够“看懂”和理解图像或视频数据。本课程旨在介绍计算机视觉的基础知识，并探讨最新的技术前沿，使学生能够应用这些知识和技术来解决实际的视觉问题。
+在本课程中，我们将首先介绍计算机视觉的基础概念和原理，包括图像获取与表示、图像处理和增强、特征提取与描述，以及图像与视频的分析与理解等基础知识。学生将学会如何处理和操作图像数据，以及如何提取有意义的信息。
+接下来，我们将深入研究计算机视觉的最新技术前沿，包括深度学习在视觉任务中的应用、目标检测与识别、图像分割与语义理解、人脸识别与表情分析等领域的最新研究成果。学生将学会如何利用深度学习和其他高级算法解决复杂的视觉问题，并了解当前研究的热点和趋势。
+此外，本课程还将结合学生们所学专业背景，探讨如何应用计算机视觉技术解决自身遇到的视觉问题。不同专业的学生可以结合自己的领域特点，设计和实现相关的计算机视觉应用。例如，在医学影像领域，学生可以利用计算机视觉技术辅助医生进行疾病诊断和治疗计划制定；在智能交通领域，学生可以开发出高效的车辆检测和行人识别系统，提高交通安全性等。
 
 - **Python程序设计** [[2023Spring](https://sites.google.com/xx.edu/xx-s21/home)] [[2023Fall](https://sites.google.com/xx.edu/xx-532/home)][[2023Fall](https://sites.google.com/xx.edu/xx/home)]
-<br> In this course, students will learn the fundamentals behind xx used for xx. We will cover the issues involved in xx.
+<br> Python是一种简单易学、功能强大的编程语言，已经成为许多领域中首选的开发语言。本课程旨在向学生介绍Python编程语言的基础知识和技能，并通过实践项目来应用所学知识。
+在本课程中，我们将首先介绍Python的基础语法、数据类型、控制流程和函数等基本概念。学生将学会如何使用Python进行变量赋值、条件判断、循环迭代等基本操作，并且能够编写简单的函数来实现特定功能。
+接着，我们将深入探讨Python编程的高级概念，包括面向对象编程、异常处理、文件操作、模块与包管理等。学生将学会如何使用类和对象构建复杂的程序结构，如何处理和处理异常情况，以及如何与外部文件进行交互。

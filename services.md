@@ -7,7 +7,7 @@
 	- xx: [xx](https://xx.org/Conferences/2023/OrganizingCommittee)
 
 - **Reviewer:** 
-	- AAAI Conference on Artificial Intelligence (AAAI): 2021, 2022 
+	- CVPR, ICCV, AAAI, IJCAI, IEEE TPAMI, IEEE TIP等主流会议期刊审稿人 
 
 
 
