@@ -42,6 +42,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
+- **[Sep. 2023]**: Our work on "A Discrepancy Aware Framework for Robust Anomaly Detection" is accepted to [IEEE Transactions on Industrial Informatics](url soon). Congratulations to Yuxuan Cai.
 - **[Aug. 2023]**: Our work on “HLeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation.” is accepted to [PRCV 2023](https://www.prcv2023.cn/2023prcv). Congratulations to Guoping Xu.
 - **[Aug. 2023]**: Our work on “Haar wavelet downsampling: A simple but effective downsampling module for semantic segmentation” is accepted to [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323005174). Congratulations to Guoping Xu.
 - **[Aug. 2023]**: My webpage is online.
