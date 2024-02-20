@@ -42,7 +42,9 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ----
+<!-- 
 - **[Feb. 2024]**: Our work Point-StyleGAN is accepted to GMP 2024 (acceptance rate: 28.57%). Congratulations.
+-->
 - **[Oct. 2023]**: Our two papers on medical image segmentation are accepted by IEEE BIBM 2023 (acceptance rate: 19.7%). Congratulations to Jianfeng Qin.
 - **[Sep. 2023]**: Our work on "A Discrepancy Aware Framework for Robust Anomaly Detection" is accepted to [IEEE Transactions on Industrial Informatics](url soon). Congratulations to Yuxuan Cai.
 - **[Aug. 2023]**: Our work on “HLeViT-UNet: Make Faster Encoders with Transformer for Medical Image Segmentation.” is accepted to [PRCV 2023](https://www.prcv2023.cn/2023prcv). Congratulations to Guoping Xu.
