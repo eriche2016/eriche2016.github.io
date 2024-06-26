@@ -42,7 +42,8 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ---- 
-- **[Mar. 2024]**: Our work Point-StyleGAN is accepted to GMP 2024 (acceptance rate: 28.57%). Congratulations.
+- **[Jun. 2024]**: Our work "SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images" by two undergraduates in our group has been accepted to PRCV 2024 (CCF C). Congratulations to Min Chen and Yuxuan Cheng.
+- **[Mar. 2024]**: Our work Point-StyleGAN is accepted to Computer Aided Geometric Design (CCF B). Congratulations.
 - **[Mar. 2024]**: Our work LATFormer is accepted to Pattern Recognition. Congratulations.
 - **[Mar. 2024]**: Our work on "A pixel and channel enhanced up-sampling module for biomedical image segmentation" is accepted to Machine Vision and Applications. Congratulations to Xuan Zhang.
 - **[Oct. 2023]**: Our two papers on medical image segmentation are accepted by IEEE BIBM 2023 (acceptance rate: 19.7%). Congratulations to Jianfeng Qin.
