@@ -42,6 +42,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 News
 ---- 
+- **[Apr. 2024]**: Our work "Multi-Modal3D0biectDetectionby Box Matching" by zhe liu has been accepted to IEEE TITS 2024. Congratulations to Zhe Liu.
 - **[Jun. 2024]**: Our work "SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images" by two undergraduates in our group has been accepted to PRCV 2024 (CCF C). Congratulations to Min Chen and Yuxuan Cheng.
 - **[Mar. 2024]**: Our work Point-StyleGAN is accepted to Computer Aided Geometric Design (CCF B). Congratulations.
 - **[Mar. 2024]**: Our work LATFormer is accepted to Pattern Recognition. Congratulations.
