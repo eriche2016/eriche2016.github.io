@@ -41,7 +41,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 
 News
----- 
+- **[Oct. 2024]**: Our work "BcMatch: Semi-supervised Medical Image Segmentation with Bias Correction" has been accepted to IEEE BIBM 2024. Congratulations to Jinhai Xiang and Yan zhang.
 - **[Aug. 2024]**: Our work "Multi-Modal 3D 0biect Detection by Box Matching" by zhe liu has been accepted to IEEE TITS 2024. Congratulations to Zhe Liu.
 - **[Jun. 2024]**: Our work "SimpleFusion: A Simple Fusion Framework for Infrared and Visible Images" by two undergraduates in our group has been accepted to PRCV 2024 (CCF C). Congratulations to Min Chen and Yuxuan Cheng.
 - **[Mar. 2024]**: Our work Point-StyleGAN is accepted to Computer Aided Geometric Design (CCF B). Congratulations.
