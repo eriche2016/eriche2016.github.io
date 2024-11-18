@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor in the [College of Informatics](http://coi.hzau.edu.cn/) at the Huazhong Agricultural University (HZAU). Before coming to HZAU (2020-2022), I worked in DJI and Hubei Sanjiang Hangtian Hongfeng Control Co. Ltd., repectively, as a senior perception engineer on autonomous driving. 
+I am now an Associate Professor in the [College of Informatics](http://coi.hzau.edu.cn/) at the Huazhong Agricultural University (HZAU). Before coming to HZAU, I worked in DJI as a senior perception engineer on autonomous driving.  
 
-I received my Ph.D. in Information and Communication Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/) under the supervision of [Prof. Xiang Bai](https://xbai.vlrlab.net/) in 2020. My research interests mainly include 3D vision, Vision & Language domain, helping machine to understand the world better. I recently focus on Out of Distribution Detection (OOD), with an emphasis on industrial anomaly detection, open-set learning on point clouds, 3D shape retreival, and 3D object detection.
+I received my Ph.D. in Information and Communication Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests mainly include 3D vision, Vision & Language domain, helping machine to understand the world better. I recently focus on Out of Distribution Detection (OOD), with an emphasis on industrial anomaly detection, open-set learning on point clouds, 3D shape retreival, and 3D object detection.
 
 <!--
 - Programming systems support for emerging machine learning workloads including multi-task learning (e.g., 
