@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "@guanh01"
+  username               : "@eriche2016"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xinwei He"
-  avatar           : "author_profile.jpg"
+  avatar           : "author_profile_sketch.jpg"
   bio              : "Associate Professor <br> <a href = \"www.hzau.edu.cn\">College of Informatics</a> <br> Huazhong Agricultural University"
   location         : "Wuhan, Hubei Province, China"
   employer         : #"UMass Amhesrt"
