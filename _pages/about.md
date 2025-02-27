@@ -41,6 +41,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 
 News
+- **[Feb. 2025]**: Our work "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation" has been accepted to CVPR 2025. Congratulations to Silin cheng.
 - **[Nov. 2024]**: Our work "Crops3D a diverse 3D crop dataset for realistic perception and segmentation toward agricultural applications" has been accepted to Scientific Data. Congratulations to Ruifang Zhai and Jianzhong Zhu.
 - **[Oct. 2024]**: Our work "BcMatch: Semi-supervised Medical Image Segmentation with Bias Correction" has been accepted to IEEE BIBM 2024 as a regular paper. Congratulations to Jinhai Xiang and Yan zhang.
 - **[Aug. 2024]**: Our work "Multi-Modal 3D 0biect Detection by Box Matching" by zhe liu has been accepted to IEEE TITS 2024. Congratulations to Zhe Liu.
