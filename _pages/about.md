@@ -41,6 +41,7 @@ I am looking for self-motivated Ph.D. students, especially in the direction of s
 
 
 News
+- **[Apr. 2025]**: One paper "TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval via Testing-time Distribution Alignment" has been accepted to ICMR2025 Full Paper track. Congratulations to Zhichuan Wang.
 - **[Apr. 2025]**: One paper "CLIP-AdaM: Adapting Multi-view CLIP for Open-set 3D Object Retrieval" has been accepted to SIGIR 2025 Full Papers track. Congratulations to Liang Ma.
 - **[Mar. 2025]**: One paper "Omni-AD: Learning to Reconstruct Global and Local Features for Multi-class Anomaly Detection" has been accepted to ICME 2025. Congratulations to Jiajie Quan.
 - **[Feb. 2025]**: One paper "WeakMCN: Multi-task Collaborative Network for Weakly Supervised Referring Expression Comprehension and Segmentation" has been accepted to CVPR 2025. Congratulations to Silin cheng.
