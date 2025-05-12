@@ -14,13 +14,13 @@
 - [Tingfeng Huang](https://xx.github.io/resume/) (Fall 2023)
 
 I was also fortunate to co-supervise the following students:
-- [Yuxuan Cai](https://xx.github.io/resume/) (Fall 2024)
-- [Jianzhong Zhu](https://xx.github.io/resume/) (Fall 2024)
-- [Ao Tong](https://xx.github.io/resume/) (Fall 2024)
-- [Xinghan Wang](https://xx.github.io/resume/) (Fall 2024)
+- [Yuxuan Cai](https://xx.github.io/resume/)
+- [Jianzhong Zhu](https://xx.github.io/resume/) 
+- [Ao Tong](https://xx.github.io/resume/)
+- [Xinghan Wang](https://xx.github.io/resume/) 
 
 Students who have graduated:
-- [Shuai Mu](https://xx.github.io/resume/) (Fall 2023)
+- [Shuai Mu](https://xx.github.io/resume/) 
 
 
 
