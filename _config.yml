@@ -84,37 +84,9 @@ author:
   avatar           : "author_profile_sketch.jpg"
   bio              : "Associate Professor <br> <a href = \"www.hzau.edu.cn\">College of Informatics</a> <br> Huazhong Agricultural University"
   location         : "Wuhan, Hubei Province, China"
-  employer         : #"UMass Amhesrt"
-  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YSIe_24AAAAJ&hl=zh-CN"
   email            : "xwhe@mail.hzau.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "eriche2016"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "xx"
-  orcid            : "xx"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "@xx"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
 
 
 # Reading Files
