@@ -13,6 +13,7 @@ I am now an Associate Professor in the [College of Informatics](http://coi.hzau.
 I received my Ph.D. in Information and Communication Engineering from [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests mainly include 3D vision, Vision & Language domain, helping machine to understand the world better. I recently focus on Out of Distribution Detection (OOD), with an emphasis on industrial anomaly detection, open-set learning on point clouds, 3D shape retreival, and 3D object detection.
 
 News
+- **Jun. 2025**: Two works have been accepted to ICCV 2025. Congratulations to Yuxuan Cai and Zhichuan Wang.
 - **[May. 2025]**: Our work on "Dynamic Expert Routing for Unsupervised Continual Anomaly Detection" is accepted to IEEE Transactions on Industrial Informatics. Congratulations to Yuxuan Cai.
 - **[Apr. 2025]**: Our work "From Individual to Universal: Regularized Multi-view Joint  Representation for  Multi-view Subspace-Preserving Recovery" has been accepted to IJCAI 2025. Congratulations to Libin Wang and Yulong Wang.
 - **[Apr. 2025]**: Our work "TeDA: Boosting Vision-Lanuage Models for Zero-Shot 3D Object Retrieval via Testing-time Distribution Alignment" has been accepted to ICMR2025 Full Paper track. Congratulations to Zhichuan Wang.
