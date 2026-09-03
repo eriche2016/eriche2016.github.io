@@ -318,6 +318,40 @@ a:hover {
   grid-template-columns: 1.25fr 0.75fr;
 }
 
+.topic-panel {
+  margin-top: 22px;
+  padding: 26px 28px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: linear-gradient(135deg, #f4f8ff, #eef6f7);
+  box-shadow: var(--shadow);
+}
+
+.topic-panel h3 {
+  margin: 0 0 18px;
+  color: var(--navy);
+  font-size: 18px;
+}
+
+.topic-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.topic-list li {
+  padding: 7px 13px;
+  border: 1px solid #cfe0f7;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--navy-soft);
+  font-size: 14px;
+  font-weight: 500;
+}
+
 .lead-card,
 .outcome-card,
 .staff-card,
