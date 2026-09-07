@@ -666,6 +666,11 @@ a:hover {
   font-size: 18px;
 }
 
+.first-class-card {
+  margin-bottom: 22px;
+  background: linear-gradient(135deg, #f4f8ff, #eef6f7);
+}
+
 .faq-list {
   max-width: 880px;
 }
