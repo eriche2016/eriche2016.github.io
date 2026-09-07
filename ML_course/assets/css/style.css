@@ -1,14 +1,14 @@
 :root {
-  --navy: #0b2239;
-  --navy-soft: #123a5f;
-  --blue: #1f6feb;
-  --cyan: #16a7b8;
-  --ink: #1b2a3a;
-  --muted: #5e6f80;
-  --line: #dce5ee;
+  --navy: #0b4f2f;
+  --navy-soft: #146b42;
+  --blue: #16834b;
+  --cyan: #70ad2f;
+  --ink: #193b2a;
+  --muted: #5f7568;
+  --line: #d7e6dc;
   --paper: #ffffff;
-  --alt-bg: #f3f7fb;
-  --shadow: 0 20px 45px rgba(11, 34, 57, 0.09);
+  --alt-bg: #f1f8f3;
+  --shadow: 0 20px 45px rgba(11, 79, 47, 0.09);
   --radius: 18px;
 }
 
@@ -81,7 +81,7 @@ a:hover {
   color: #fff;
   font-weight: 800;
   letter-spacing: 0.04em;
-  box-shadow: 0 8px 20px rgba(31, 111, 235, 0.25);
+  box-shadow: 0 8px 20px rgba(22, 131, 75, 0.25);
 }
 
 .brand-text {
@@ -118,7 +118,7 @@ a:hover {
 
 .main-nav a:hover,
 .main-nav a.active {
-  background: #eaf2ff;
+  background: #e7f4eb;
   color: var(--blue);
   text-decoration: none;
 }
@@ -129,7 +129,7 @@ a:hover {
   height: 44px;
   border: 0;
   border-radius: 10px;
-  background: #eaf2ff;
+  background: #e7f4eb;
   cursor: pointer;
 }
 
@@ -160,9 +160,9 @@ a:hover {
   overflow: hidden;
   color: #fff;
   background:
-    radial-gradient(circle at 78% 15%, rgba(31, 111, 235, 0.55), transparent 30%),
-    radial-gradient(circle at 15% 85%, rgba(22, 167, 184, 0.42), transparent 28%),
-    linear-gradient(135deg, #081a2c 0%, #0b2239 45%, #0f3f6b 100%);
+    radial-gradient(circle at 78% 15%, rgba(112, 173, 47, 0.5), transparent 30%),
+    radial-gradient(circle at 15% 85%, rgba(22, 131, 75, 0.42), transparent 28%),
+    linear-gradient(135deg, #063522 0%, #0b4f2f 45%, #146b42 100%);
 }
 
 .hero::after {
@@ -179,13 +179,13 @@ a:hover {
 .hero-inner {
   position: relative;
   z-index: 1;
-  padding: 92px 0 100px;
+  padding: 48px 0 56px;
   max-width: 900px;
 }
 
 .eyebrow {
   margin: 0 0 22px;
-  color: #b9d8ff;
+  color: #b9e0c6;
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0.08em;
@@ -201,7 +201,7 @@ a:hover {
 .hero-subtitle {
   max-width: 720px;
   margin: 0;
-  color: #d9e7f5;
+  color: #d9ecdf;
   font-size: clamp(17px, 2vw, 22px);
   line-height: 1.8;
 }
@@ -279,7 +279,7 @@ a:hover {
   height: 44px;
   flex: 0 0 44px;
   border-radius: 12px;
-  background: #eaf2ff;
+  background: #e7f4eb;
   color: var(--blue);
   font-size: 14px;
   font-weight: 700;
@@ -323,7 +323,7 @@ a:hover {
   padding: 26px 28px;
   border: 1px solid var(--line);
   border-radius: var(--radius);
-  background: linear-gradient(135deg, #f4f8ff, #eef6f7);
+  background: linear-gradient(135deg, #f1f8f3, #edf7e8);
   box-shadow: var(--shadow);
 }
 
@@ -381,7 +381,7 @@ a:hover {
 
 .outcome-card {
   padding: 28px;
-  background: linear-gradient(135deg, #f4f8ff, #eef6f7);
+  background: linear-gradient(135deg, #f1f8f3, #edf7e8);
 }
 
 .outcome-card h3,
@@ -530,8 +530,8 @@ a:hover {
 }
 
 .tag-theory {
-  background: #eaf2ff;
-  color: #1f6feb;
+  background: #e7f4eb;
+  color: #16834b;
 }
 
 .tag-lab {
@@ -638,7 +638,7 @@ a:hover {
   height: 10px;
   border-radius: 50%;
   background: var(--blue);
-  box-shadow: 0 0 0 4px #eaf2ff;
+  box-shadow: 0 0 0 4px #e7f4eb;
 }
 
 .timeline span {
@@ -669,7 +669,7 @@ a:hover {
 .site-footer {
   padding: 42px 0;
   background: var(--navy);
-  color: #d9e7f5;
+  color: #d9ecdf;
 }
 
 .footer-inner {
@@ -747,7 +747,7 @@ a:hover {
 
 @media (max-width: 560px) {
   .hero-inner {
-    padding: 64px 0 72px;
+    padding: 40px 0 44px;
   }
 
   .section {
